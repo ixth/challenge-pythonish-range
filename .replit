@@ -1,0 +1,2 @@
+run = "yarn test:watch"
+language = "TypeScript"
